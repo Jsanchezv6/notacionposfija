@@ -1,4 +1,2 @@
-# notacion-posfija-P3P1
-Examen parcial 1 de programacion 3
-</br>
-El siguiente programa debe convertir una expresion posfija a infija por ejemplo 2 1 +, se covierte a 2 + 1, 5 4 + 3 *, seria = 5 + 4 * 3
+Capturas de los test: 
+https://drive.google.com/drive/folders/1VdKzG1f9k-49AD39iq3zdi-a5W9y3WJc?usp=sharing
